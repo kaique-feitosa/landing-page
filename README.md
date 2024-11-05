@@ -6,7 +6,7 @@
 ###
 
 ### Estilo
-  Os estilos desta projeto foram desenvolvidos com: <br>
+  Os estilos deste projeto foram desenvolvidos com: <br>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="130" />
 
 ###
